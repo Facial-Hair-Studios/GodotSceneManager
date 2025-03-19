@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://cxx16joqln0e6"]
+
+[node name="TitleScreen" type="Node2D"]
